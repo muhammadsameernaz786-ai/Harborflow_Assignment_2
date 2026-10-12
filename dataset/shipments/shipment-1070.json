@@ -1,0 +1,9 @@
+{
+  "shipment_id": "SHP-1070",
+  "customer": "Göta Paper Cooperative",
+  "destination": "GOT",
+  "weight_kg": 2750.0,
+  "priority": "STANDARD",
+  "hazardous": false,
+  "temperature_controlled": false
+}

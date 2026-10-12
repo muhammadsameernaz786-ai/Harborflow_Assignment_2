@@ -1,0 +1,10 @@
+{
+  "shipment_id": "SHP-1042",
+  "customer": "Norra MedTech AB",
+  "destination": "GOT",
+  "weight_kg": 860.0,
+  "priority": "STANDARD",
+  "hazardous": false,
+  "temperature_controlled": true,
+  "cargo_type": "REFRIGERATED"
+}

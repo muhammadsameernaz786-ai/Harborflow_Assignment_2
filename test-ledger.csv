@@ -1,0 +1,11 @@
+area,test_case,input_summary,expected_result,actual_result,owner,status
+Files,Mixed valid and invalid vessels,List vessels,Valid vessels shown and malformed file skipped,,,Not run
+Relationships,Missing shipment,Inspect Nordic Relay from 2026-10-18,Missing record counted without crash,,,Not run
+Export,Update existing customer,Export same customer twice,One replaced row and no duplicate,,,Not run
+Month,Invalid source date,Choose month 10,Bad source row skipped and valid calls shown,,,Not run
+Regex,Several identifiers,Sanitize Reefer temperature deviation,All three identifier types replaced,,,Not run
+Sequence,Repeated event,Analyze HFL-GOT-2048,Longest first stable window reported,,,Not run
+Weather,Combined thresholds,Nordic Relay from 2026-10-18,Wind and wave recommendations combined,,,Not run
+Weather,Missing forecast,Baltic Pioneer from 2026-11-05,Forecast unavailable without stopping,,,Not run
+Search,Two query words,Search reefer delay,Positive matches scored and sorted,,,Not run
+Cache,Corrupt cache,Replace cache with invalid JSON then search,Cache rebuilt,,,Not run

@@ -1,0 +1,21 @@
+ASSIGNMENT 2 STARTER FILES
+
+1. Keep this directory structure unchanged while developing.
+2. Run the product from this project root with: python main.py
+3. Read files from dataset/ using relative paths. Never use an absolute path
+   tied to one student's computer.
+4. Treat the supplied dataset as read-only, except that Task 9 creates or
+   refreshes dataset/incident-index.json.
+5. Your program creates other persistent outputs under exports/.
+6. Complete readme.txt and maintain test-ledger.csv during development.
+7. Do not hard-code the supplied records; CodeGrade may use different data.
+
+The dataset intentionally contains realistic complications:
+- one malformed vessel JSON file;
+- one missing shipment referenced by a manifest;
+- one invalid date in port_calls.csv;
+- one malformed numeric weather row;
+- calls with no matching forecast;
+- incident reports with and without share-sensitive identifiers.
+
+These records are part of the assignment. Do not repair or delete them.

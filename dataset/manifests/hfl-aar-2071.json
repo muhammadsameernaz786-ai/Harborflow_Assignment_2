@@ -1,0 +1,6 @@
+{
+  "call_id": "HFL-AAR-2071",
+  "vessel_id": "VSL-003",
+  "shipment_ids": ["SHP-1045", "SHP-1046", "SHP-1067"],
+  "event_codes": ["GATE_IN", "SCAN", "SCAN", "LOAD", "LOAD", "DEPART"]
+}

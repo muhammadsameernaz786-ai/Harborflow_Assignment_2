@@ -1,0 +1,6 @@
+{
+  "incident_id": "INC-102",
+  "call_id": "HFL-GOT-2048",
+  "title": "Reefer temperature deviation",
+  "report": "Container MSCU1234567 arrived with seal SEAL-884210. The reefer temperature alarm was checked. Notify ops@harborflow.se."
+}

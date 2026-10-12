@@ -1,0 +1,10 @@
+{
+  "shipment_id": "SHP-1049",
+  "customer": "Norra MedTech AB",
+  "destination": "CPH",
+  "weight_kg": 400.0,
+  "priority": "STANDARD",
+  "hazardous": false,
+  "temperature_controlled": false,
+  "cargo_type": "PACKAGING"
+}

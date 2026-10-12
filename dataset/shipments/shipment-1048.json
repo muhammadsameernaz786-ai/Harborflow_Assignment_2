@@ -1,0 +1,10 @@
+{
+  "shipment_id": "SHP-1048",
+  "customer": "Norra MedTech AB",
+  "destination": "GOT",
+  "weight_kg": 1200.0,
+  "priority": "EXPRESS",
+  "hazardous": false,
+  "temperature_controlled": false,
+  "cargo_type": "MEDICAL DEVICES"
+}

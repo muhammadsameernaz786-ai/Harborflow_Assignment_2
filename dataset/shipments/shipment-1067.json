@@ -1,0 +1,10 @@
+{
+  "shipment_id": "SHP-1067",
+  "customer": "Vänern Tools AB",
+  "destination": "AAR",
+  "weight_kg": 620.0,
+  "priority": "EXPRESS",
+  "hazardous": false,
+  "temperature_controlled": false,
+  "cargo_type": "TOOLS"
+}

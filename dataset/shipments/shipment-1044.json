@@ -1,0 +1,10 @@
+{
+  "shipment_id": "SHP-1044",
+  "customer": "Norra MedTech AB",
+  "destination": "OSL",
+  "weight_kg": 1500.0,
+  "priority": "STANDARD",
+  "hazardous": false,
+  "temperature_controlled": false,
+  "cargo_type": "EQUIPMENT"
+}

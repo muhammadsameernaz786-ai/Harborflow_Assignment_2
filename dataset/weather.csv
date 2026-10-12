@@ -1,0 +1,6 @@
+port_code,date,wind_kmh,precipitation_mm,wave_height_m
+CPH,2026-10-02,18.0,2.0,0.8
+GOT,2026-10-18,48.0,3.2,2.7
+AAR,2026-10-18,30.0,9.5,1.4
+OSL,2026-11-05,44.0,1.0,2.5
+CPH,2026-12-01,not-recorded,4.0,1.1
