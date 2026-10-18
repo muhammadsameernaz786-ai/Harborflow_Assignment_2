@@ -305,9 +305,9 @@ def sanitize_incident():
         print(f"Error - Cannot save sanitized incident: {error}")
     else:
         print(
-            "Incident report sanitized: "
-            f"exports/sanitized/{identifier}-sanitized.txt"
-        )
+        "Incident sanitized: "
+        f"exports/sanitized/{identifier}-sanitized.txt"
+    )
 
 
 def stable_sequence():
